@@ -4,8 +4,8 @@ Simulation and model-fitting code for a model that describes SARS-CoV-2 transmis
 The purpose of this project was to extend the work done in this paper (https://doi.org/10.1101/2021.03.26.21254421) by implementing the government of Ontario's colour coded response framework as a method of mitigating the effects of COVID-19 in the province. 
 
 Previous iterations of this model include: 
-- https://github.com/k3fair/COVID-19-ON-model and
-- https://github.com/VadimKar/COVID-19-Hierarchy-model
+- https://github.com/k3fair/COVID-19-ON-model (Manuscript: https://doi.org/10.1101/2021.03.26.21254421) and
+- https://github.com/VadimKar/COVID-19-Hierarchy-model (Manuscript: https://doi.org/10.1073/pnas.2014385117)
 
 To run a set of simulations, make all required option selections (detailed within each script) and launch script.
 
